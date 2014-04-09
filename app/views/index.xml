@@ -1,0 +1,6 @@
+<Alloy>
+	<Window id="container" class="container">
+		<Button class="AddEvent" id = "AddEvent"/>
+		<Button class="RemoEvent" id = "RemoEvent"/>
+	</Window>
+</Alloy>

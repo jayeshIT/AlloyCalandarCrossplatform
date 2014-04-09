@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: @indianic
+author: @Indainic
+license: @indianic
+copyright: @indianic
+
+
+# these should not be edited
+name: android_calendar
+moduleid: com.indianic.androidcalender
+guid: 1a15b841-6bcb-4d18-8473-4e57b66bb7a3
+platform: android
+minsdk: 3.1.0.GA

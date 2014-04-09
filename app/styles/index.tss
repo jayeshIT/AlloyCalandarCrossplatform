@@ -1,0 +1,57 @@
+".container" : {
+backgroundColor :"gray",
+exitOnClose : false
+},
+
+".View1[platform=ios]":
+{
+	left: 0 ,
+	height : 175,
+	width : 320,
+	backgroundImage : "/default-header-slideviews.png",
+	borderColor:"red"
+},
+".View1[platform=android]":
+{
+	top : '153dp',
+	left : '0dp',
+	height : '175dp',
+	width : '320dp',
+	backgroundImage : "/images/default-header-slideviews.png"
+},
+".AddEvent[platform=ios]":
+{
+	
+    top : 10,
+    left : 10,
+    width : 200,
+    height : 50,
+    title : "add Event"
+},
+".AddEvent[platform=android]":
+{
+	 top : 10,
+    left : 10,
+    width : 200,
+    height : 70,
+    title : "add Event"
+},
+
+
+".RemoEvent[platform=ios]":
+{
+	
+	top : 100,
+	left : 10,
+	width : 200,
+	height : 50,
+	title : "Remove Event"
+}
+".RemoEvent[platform=android]":
+{
+	top : 110,
+	left : 10,
+	width : 200,
+	height : 70,
+	title : "Remove Event"
+}

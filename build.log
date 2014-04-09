@@ -1,0 +1,58 @@
+Logfile initialized
+[INFO] logfile = /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build.log
+[DEBUG] /Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/android/builder.py simulator CalandarCrossplatform /Volumes/DATA/Androidz/android-sdk-mac_86 /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform com.CalandarCrossplatform.indianic 36 WVGA800 
+[INFO] Building CalandarCrossplatform for Android ... one moment
+[INFO] plugin=/Users/indianic/Library/Application Support/Titanium/plugins/ti.alloy/1.0/plugin.py
+[INFO] Detected compiler plugin: ti.alloy/1.0
+[INFO] Titanium SDK version: 3.1.1 (06/15/13 16:09 f7592c1)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 40 seconds)
+[DEBUG] waited 40.216794 seconds on emulator to get ready
+[INFO] Waiting for the Android Emulator to become available
+[DEBUG] com.CalandarCrossplatform.indianic installed? False
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[INFO] Detected change in tiapp.xml, or assets deleted. Forcing full re-build...
+[TRACE] COPYING CREATED FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/alloy/backbone.js => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/bin/assets/Resources/alloy/backbone.js
+[TRACE] COPYING CREATED FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/alloy/constants.js => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/bin/assets/Resources/alloy/constants.js
+[TRACE] COPYING CREATED FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/alloy/controllers/BaseController.js => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/bin/assets/Resources/alloy/controllers/BaseController.js
+[TRACE] COPYING CREATED FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/alloy/controllers/index.js => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/bin/assets/Resources/alloy/controllers/index.js
+[TRACE] COPYING CREATED FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/alloy/styles/index.js => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/bin/assets/Resources/alloy/styles/index.js
+[TRACE] COPYING CREATED FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/alloy/sync/localStorage.js => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/bin/assets/Resources/alloy/sync/localStorage.js
+[TRACE] COPYING CREATED FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/alloy/sync/properties.js => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/bin/assets/Resources/alloy/sync/properties.js
+[TRACE] COPYING CREATED FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/alloy/sync/sql.js => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/bin/assets/Resources/alloy/sync/sql.js
+[TRACE] COPYING CREATED FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/alloy/sync/util.js => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/bin/assets/Resources/alloy/sync/util.js
+[TRACE] COPYING CREATED FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/alloy/underscore.js => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/bin/assets/Resources/alloy/underscore.js
+[TRACE] COPYING CREATED FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/alloy/widget.js => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/bin/assets/Resources/alloy/widget.js
+[TRACE] COPYING CREATED FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/alloy.js => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/bin/assets/Resources/alloy.js
+[TRACE] COPYING CREATED FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/android/alloy/CFG.js => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/bin/assets/Resources/alloy/CFG.js
+[TRACE] COPYING CREATED FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/android/appicon.png => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/bin/assets/Resources/appicon.png
+[TRACE] COPYING CREATED FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/android/MarketplaceArtwork.png => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/bin/assets/Resources/MarketplaceArtwork.png
+[TRACE] COPYING CREATED FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/app.js => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/bin/assets/Resources/app.js
+[TRACE] COPYING CREATED FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/jay.db => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/bin/assets/Resources/jay.db
+[DEBUG] LiveView not enabled
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[TRACE] COPYING FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/android/images/high/default-header-slideviews.png => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/res/drawable-hdpi/default_header_slideviews_5683849b6f.png
+[TRACE] COPYING FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/android/images/high/Default.png => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/res/drawable-hdpi/default_d44e27d97b.png
+[TRACE] COPYING FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/android/images/low/default-header-slideviews.png => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/res/drawable-ldpi/default_header_slideviews_5683849b6f.png
+[TRACE] COPYING FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/android/images/low/Default.png => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/res/drawable-ldpi/default_d44e27d97b.png
+[TRACE] COPYING FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/android/images/medium/default-header-slideviews.png => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/res/drawable-mdpi/default_header_slideviews_5683849b6f.png
+[TRACE] COPYING FILE: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/Resources/android/images/medium/Default.png => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/res/drawable-mdpi/default_d44e27d97b.png
+[DEBUG] app stylesheet => /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/gen/com/CalandarCrossplatform/indianic/ApplicationStylesheet.java
+[DEBUG] copying app icon: /Users/indianic/Documents/Titanium_Studio_Workspace/Alloy_CalandarCrossplatform/build/android/bin/assets/Resources/appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] copying default splash screen
+[TRACE] Writing out AndroidManifest.xml
+[ERROR] Error generating R.java from manifest
+[INFO] Android Emulator has exited
